@@ -38,3 +38,5 @@
 #####MapStruct 	: 5.65300 Miliseconds
 #####Dozer 	  	:	20.50100 Miliseconds
 
+![alt tag](https://raw.github.com/Pradeep-Deore/Screenshots/Charts/master/screenshots/simpledesign_linechart3.png)
+
