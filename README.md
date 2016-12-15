@@ -38,6 +38,8 @@
 #####MapStruct 	: 5.65300 Miliseconds
 #####Dozer 	  	:	20.50100 Miliseconds
 
-- **Performance Report (Chart)**
+
+##**Performance Report (Chart)**
+
 ![Chart](https://github.com/Pradeep-Deore/Screenshots/blob/master/Charts/Performance.png)
 
